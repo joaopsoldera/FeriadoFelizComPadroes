@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-// ESTRATEGY
+// STRATEGY
 interface EstrategiaTaxa {
     double calcular(double valor);
 }
